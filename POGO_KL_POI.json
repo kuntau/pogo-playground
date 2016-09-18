@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "desc": "Masjid Putra",
+    "long_desc": "Dataran Putra, covering Masjid rare spawn location near the edge",
+    "lat": 2.9352245196168654,
+    "lng": 101.68968915939332
+  },
+  {
+    "id": 2,
+    "desc": "Dataran Putra",
+    "long_desc": "Dataran Putra, covering right Dragonite spawn",
+    "lat": 2.934983437479131,
+    "lng": 101.69169545173646
+  },
+  {
+    "id": 3,
+    "desc": "Monumen Alaf Baru",
+    "long_desc" : "Triple pokestop",
+    "lat": 2.9231971362932736,
+    "lng": 101.68333232402802
+  },
+  {
+    "id": 4,
+    "desc": "Menara diamond",
+    "long_desc": "Triple pokestop, lots of spawn",
+    "lat": 2.9186754496789566,
+    "lng": 101.6881012916565
+  },
+  {
+    "id": 5,
+    "desc": "PICC",
+    "long_desc": "PICC edge, lots of uncommon spawn",
+    "lat": 2.8957024296676206,
+    "lng": 101.67764067649841
+  },
+  {
+    "id": 6,
+    "desc": "Putrajaya Dam",
+    "long_desc": "Ikan bakar, lots of uncommon spawn",
+    "lat": 2.896136392630416,
+    "lng": 101.68011903762819
+  },
+  {
+    "id": 7,
+    "desc": "Marina Putrajaya",
+    "long_desc": "Lots of water type spawn, dratini spot",
+    "lat": 2.901252856993181,
+    "lng": 101.67084932327272
+  },
+  {
+    "id": 8,
+    "desc": "Putra Damai",
+    "long_desc": "Sometimes rare spawn, around Surau",
+    "lat": 2.9639772083460074,
+    "lng": 101.6659998893738
+  }
+]
